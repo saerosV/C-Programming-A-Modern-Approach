@@ -4,7 +4,7 @@
 * Purpose: Ask a user for a integer, and print all the even squares between
 * 1 and the user's input.
 *
-* Author: Guilherme Marz Vazzolla 
+* Author: saerosV
 *
 * Date: 05 September 2020
 *
