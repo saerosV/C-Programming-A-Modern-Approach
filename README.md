@@ -4,4 +4,5 @@ My solutions to exercises and projects found on the textbook "C Programming - A 
 Currently going through the book, solutions will be added as soon as completed. Refactoring of past projects is to be expected, according to newly acquired knowledge of the C programming language. 
 
 
-Status: ON HOLD untill completing "How to Code - Simple Data" from the OSSU curriculum.
+Status: ON HOLD untill completing the Core Programming Module from OSSU.
+https://github.com/ossu/computer-science#core-programming
